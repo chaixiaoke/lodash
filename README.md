@@ -83,4 +83,8 @@ Lodash is available in a [variety of builds](https://lodash.com/custom-builds) &
  * [lodash/fp](https://github.com/lodash/lodash/tree/npm/fp)
  * [lodash-amd](https://www.npmjs.com/package/lodash-amd)
 
+## Additional Resources
+
+ * [Go Language Learning Plan (中文)](GO_LEARNING_PLAN.md) - A comprehensive guide for front-end developers to quickly learn Go language for local server development
+
 
